@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Login-Mystic/endangered animals</title>
+  <meta name="description" content="Login for Mystic/endangered animals website">
+  <meta name="author" content="Ella, Kayla, Katelyn, Madison">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+ 
+</head>
+
+<body>
+  <script src="scripts.js"></script>
+	<h1>Login</h1>
+<img src="https://i.pinimg.com/originals/03/74/f9/0374f9b08d8eed254b15c35c8aabbe01.gif"> 
+<label> Username:</label><br>
+<input type="text" id="username"><br>
+<label>Password:</label><br>
+<input type="password" id="password"><br>
+<button type="button" onclick="login()">Login</button>
+<p id="error" class="hide">Access Denied!</p>
+
