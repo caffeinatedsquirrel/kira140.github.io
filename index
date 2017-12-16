@@ -37,7 +37,7 @@
 <img src="https://i.pinimg.com/originals/03/74/f9/0374f9b08d8eed254b15c35c8aabbe01.gif">
 
 
-<label> Username:</label><br>
+<h2> Username:</label><br>
 
 
 <input type="text" id="username"><br>
